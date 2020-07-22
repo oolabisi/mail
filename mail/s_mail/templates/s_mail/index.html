@@ -7,18 +7,18 @@
 <body>
 
         <center>
-        <h1 class = 'alert alert-success'>Subscribe Form</h1>
-        <h3 class="p-3 mb-2 bg-primary text-white" style = 'font-size: 50px;'>Grand Zone</h3>
+        <h1 class = 'alert alert-success'>Grand Play</h1>
+        <h3 class="p-3 mb-2 bg-primary text-white" style = 'font-size: 50px;'>Grand Play Zone</h3>
     <form method="POST">
         <!-- Very Important csrf Token -->
         {% csrf_token %}
         <div class = "form-group">
             <p>
             <h3>{{ form.as_p }}</h3>
-        </p>
+            </p>
             <br>
             <input type="submit" name="Subscribe" class = 'btn btn-primary btn-lg'>
-                </div>
+        </div>
             </form>
         </center>
 

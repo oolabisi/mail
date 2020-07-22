@@ -1,10 +1,10 @@
 from django.conf.global_settings import EMAIL_HOST_USER
 from django.core.mail import send_mail
 from django.shortcuts import render
+from . import forms
 
 
 # Create your views here.
-from . import forms
 
 
 def subscribe(request):
@@ -14,7 +14,6 @@ def subscribe(request):
         subject = 'Welcome to Grand Zone'
         message = 'We are here to serve you better!'
         recipient = str(sub['Email'].value())
-        send_mail(subject,
-                  message, EMAIL_HOST_USER, [recipient], fail_silently=False)
+        send_mail(subject, message, EMAIL_HOST_USER, [recipient], fail_silently=False)
         return render(request, 's_mail/success.html', {'recipient': recipient})
     return render(request, 's_mail/index.html', {'form': sub})
