@@ -2,6 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c3f9287-800e-4bad-ac86-6daf18599dc9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/mail.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mail/mail/celery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mail/mail/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mail/s_mail/tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mail/s_mail/templates/s_mail/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mail/s_mail/templates/s_mail/generate_random_users.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mail/s_mail/templates/s_mail/users_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mail/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail/mail/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/mail/mail/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail/mail/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mail/mail/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail/mail/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mail/mail/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mail/s_mail/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/mail/s_mail/forms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mail/s_mail/templates/s_mail/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mail/s_mail/templates/s_mail/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mail/s_mail/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mail/s_mail/views.py" afterDir="false" />
@@ -10,6 +25,14 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,11 +44,20 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mail/s_mail/templates/s_mail" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mail/s_mail/templates/s_mail" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -37,9 +69,29 @@
       <option name="presentableId" value="Default" />
       <updated>1595451229279</updated>
     </task>
+    <task id="LOCAL-00001" summary="next">
+      <created>1595452933665</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595452933665</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="next" />
+    <option name="LAST_COMMIT_MESSAGE" value="next" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="624" y="83" width="732" height="637" key="#Inspections" timestamp="1596212071334">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="624" y="83" width="732" height="637" key="#Inspections/0.27.1366.741@0.27.1366.741" timestamp="1596212071334" />
+    <state x="289" y="27" width="777" height="741" key="CommitChangelistDialog2" timestamp="1595452933524">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="289" y="27" width="777" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1595452933524" />
     <state x="544" y="296" key="Github.ShareDialog" timestamp="1595452116888">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -48,5 +100,13 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="475" y="76" width="406" height="640" key="Github.UntrackedFilesDialog/0.27.1366.741@0.27.1366.741" timestamp="1595452152939" />
+    <state x="0" y="27" key="SettingsEditor" timestamp="1595957212167">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="0" y="27" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1595957212167" />
+    <state x="278" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1596218245504">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1596218245504" />
   </component>
 </project>
