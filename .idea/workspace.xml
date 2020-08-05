@@ -70,13 +70,21 @@
       <option name="project" value="LOCAL" />
       <updated>1596219193353</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Procfile">
+      <created>1596629837206</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596629837206</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="next" />
     <MESSAGE value="add Celery to spice it" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Celery to spice it" />
+    <MESSAGE value="Procfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="Procfile" />
   </component>
   <component name="WindowStateProjectService">
     <state x="624" y="83" width="732" height="637" key="#Inspections" timestamp="1596212071334">
@@ -95,10 +103,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="743" y="208" width="583" height="396" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.741@0.27.1366.741" timestamp="1596627256091" />
-    <state x="289" y="27" width="777" height="741" key="CommitChangelistDialog2" timestamp="1596219192893">
+    <state x="289" y="27" width="777" height="741" key="CommitChangelistDialog2" timestamp="1596629836909">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="289" y="27" width="777" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1596219192893" />
+    <state x="289" y="27" width="777" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1596629836909" />
     <state x="544" y="296" key="Github.ShareDialog" timestamp="1595452116888">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -111,9 +119,9 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="0" y="27" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1595957212167" />
-    <state x="278" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1596629336931">
+    <state x="278" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1596629844126">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="278" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1596629336931" />
+    <state x="278" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1596629844126" />
   </component>
 </project>
