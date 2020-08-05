@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c3f9287-800e-4bad-ac86-6daf18599dc9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mail/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mail/runtime.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mail/mail/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mail/mail/settings.py" afterDir="false" />
     </list>
@@ -88,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596629960777</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="--">
+      <created>1596642615061</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596642615061</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -96,7 +104,8 @@
     <MESSAGE value="next" />
     <MESSAGE value="add Celery to spice it" />
     <MESSAGE value="Procfile" />
-    <option name="LAST_COMMIT_MESSAGE" value="Procfile" />
+    <MESSAGE value="--" />
+    <option name="LAST_COMMIT_MESSAGE" value="--" />
   </component>
   <component name="WindowStateProjectService">
     <state x="624" y="83" width="732" height="637" key="#Inspections" timestamp="1596212071334">
@@ -115,10 +124,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="743" y="208" width="583" height="396" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.741@0.27.1366.741" timestamp="1596627256091" />
-    <state x="289" y="27" width="777" height="741" key="CommitChangelistDialog2" timestamp="1596629960587">
+    <state x="289" y="27" width="777" height="741" key="CommitChangelistDialog2" timestamp="1596642614758">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="289" y="27" width="777" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1596629960587" />
+    <state x="289" y="27" width="777" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1596642614758" />
     <state x="544" y="296" key="Github.ShareDialog" timestamp="1595452116888">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -131,9 +140,9 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="0" y="27" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1595957212167" />
-    <state x="278" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1596629967673">
+    <state x="278" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1596642617656">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="278" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1596629967673" />
+    <state x="278" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1596642617656" />
   </component>
 </project>
