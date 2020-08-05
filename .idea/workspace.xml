@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c3f9287-800e-4bad-ac86-6daf18599dc9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mail.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mail/mail/celery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mail/mail/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mail/s_mail/tasks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mail/s_mail/templates/s_mail/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mail/s_mail/templates/s_mail/generate_random_users.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mail/s_mail/templates/s_mail/users_list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mail/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail/mail/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/mail/mail/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail/mail/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mail/mail/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail/mail/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mail/mail/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail/s_mail/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/mail/s_mail/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail/s_mail/templates/s_mail/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mail/s_mail/templates/s_mail/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail/s_mail/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mail/s_mail/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail/s_mail/tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/mail/s_mail/tasks.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +37,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/mail/s_mail/templates/s_mail" />
     </key>
@@ -76,22 +63,42 @@
       <option name="project" value="LOCAL" />
       <updated>1595452933665</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add Celery to spice it">
+      <created>1596219193353</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596219193353</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="next" />
-    <option name="LAST_COMMIT_MESSAGE" value="next" />
+    <MESSAGE value="add Celery to spice it" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Celery to spice it" />
   </component>
   <component name="WindowStateProjectService">
     <state x="624" y="83" width="732" height="637" key="#Inspections" timestamp="1596212071334">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="624" y="83" width="732" height="637" key="#Inspections/0.27.1366.741@0.27.1366.741" timestamp="1596212071334" />
-    <state x="289" y="27" width="777" height="741" key="CommitChangelistDialog2" timestamp="1595452933524">
+    <state x="669" y="231" width="615" height="350" key="#Notifications" timestamp="1596457641581">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="289" y="27" width="777" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1595452933524" />
+    <state x="669" y="231" width="615" height="350" key="#Notifications/0.27.1366.741@0.27.1366.741" timestamp="1596457641581" />
+    <state x="556" y="50" width="800" height="712" key="#Plugins" timestamp="1596626462968">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="556" y="50" width="800" height="712" key="#Plugins/0.27.1366.741@0.27.1366.741" timestamp="1596626462968" />
+    <state x="743" y="208" width="583" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596627256091">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="743" y="208" width="583" height="396" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.741@0.27.1366.741" timestamp="1596627256091" />
+    <state x="289" y="27" width="777" height="741" key="CommitChangelistDialog2" timestamp="1596219192893">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="289" y="27" width="777" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1596219192893" />
     <state x="544" y="296" key="Github.ShareDialog" timestamp="1595452116888">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -104,9 +111,9 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="0" y="27" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1595957212167" />
-    <state x="278" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1596218245504">
+    <state x="278" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1596629336931">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="278" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1596218245504" />
+    <state x="278" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1596629336931" />
   </component>
 </project>
