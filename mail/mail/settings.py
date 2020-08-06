@@ -24,7 +24,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'dd_+#7vhc_z6(^6m&$=6r_*w=oc98ulm4(-3d3pl#9#c6lu935'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['celery-integration.herokuapp.com', '127.0.0.1']
 
