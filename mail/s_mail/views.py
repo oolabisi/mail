@@ -33,7 +33,7 @@ def subscribe(request):
     if request.method == 'POST':
         sub = forms.Subscribe(request.POST)
         subject = 'Welcome to Grand Zone'
-        message = 'We are here to serve you better!'
+        message = 'We are here to serve you better! :D'
         recipient = str(sub['email'].value())
         send_mail(subject, message, EMAIL_HOST_USER, [recipient], fail_silently=False)
         return render(request, 's_mail/success.html', {'recipient': recipient})
