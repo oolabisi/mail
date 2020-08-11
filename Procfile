@@ -1,1 +1,1 @@
-web: gunicorn s_mail.wsgi --log-file -
+web: gunicorn mail.wsgi --log-file -
